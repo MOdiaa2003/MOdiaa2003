@@ -2,7 +2,8 @@
 my name is mohamed,I'm Elshorouk academy student (2021-2025) interseted in python and data science!
 - 🔭 I’m currently working on data analytics project 
 - 🌱 I’m recently finished project that help elctromic store [github repo](https://github.com/MOdiaa2003/sales_analysis) to know customer prefrences , increase sales and give impactful insights
- 🌱 Skills
+
+🌱 Skills
 - Programming Languages: [python-c#-c++]
 - Data Analysis Tools: [matplotlib-pandas-seaborn-numpy-webscraping-excel-sql]
 - Database Management: [my_sql]
