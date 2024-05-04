@@ -9,9 +9,9 @@ my name is mohamed,I'm Elshorouk academy student (2021-2025) interseted in pytho
 - Database Management: [my_sql]
 
  📫 Get in Touch
-- LinkedIn: [Your LinkedIn profile link](https://www.linkedin.com/in/mohamed-diaa-710085303/)
-- Portfolio: [Your portfolio website or project links](https://mdiaa44359.wixsite.com/my-site-2)
-- Email: [Your email address](mdiaa44359@gmail.com)
+- LinkedIn: [mohamd diaa ](https://www.linkedin.com/in/mohamed-diaa-710085303/)
+- Portfolio: [ portfolio website ](https://mdiaa44359.wixsite.com/my-site-2)
+- Email: [ email address](mdiaa44359@gmail.com)
 
 
 <!--
